@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include dbiz_theme *.css
+recursive-include dbiz_theme *.csv
+recursive-include dbiz_theme *.html
+recursive-include dbiz_theme *.ico
+recursive-include dbiz_theme *.js
+recursive-include dbiz_theme *.json
+recursive-include dbiz_theme *.md
+recursive-include dbiz_theme *.png
+recursive-include dbiz_theme *.py
+recursive-include dbiz_theme *.svg
+recursive-include dbiz_theme *.txt
+recursive-exclude dbiz_theme *.pyc
