@@ -15,15 +15,15 @@ app_license = "MIT"
 # ------------------
 
 app_include_css = [
-    "/assets/bdtheme/css/bdtheme.css",
-    "/assets/bdtheme/css/skin-blue.css",
-    "/assets/bdtheme/css/custom.css",
-    "/assets/bdtheme/css/temp.css",
+    "/assets/dbiz_theme/css/bdtheme.css",
+    "/assets/dbiz_theme/css/skin-blue.css",
+    "/assets/dbiz_theme/css/custom.css",
+    "/assets/dbiz_theme/css/temp.css",
 ]
 app_include_js = [
-    "/assets/bdtheme/js/bdtheme.js",
-    "/assets/bdtheme/js/custom.js",
-    "/assets/js/bdtheme-template.min.js",
+    "/assets/dbiz_theme/js/bdtheme.js",
+    "/assets/dbiz_theme/js/custom.js",
+    "/assets/js/dbiz_theme-template.min.js",
 ]
 
 
