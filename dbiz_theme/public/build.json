@@ -1,13 +1,11 @@
 {
-    "css/bdtheme.min.css": [
-        "public/css/bdtheme.css",
-        "public/css/skin-blue.css",
-        "public/css/custom.css",
-        "public/css/temp.css"
+    "css/dbiz_theme.min.css": [
+        "public/css/dbiz_theme.css",
+        "public/css/dbiz_theme-custom.css"
     ],
-    "js/bdtheme.min.js": [
-        "public/js/bdtheme.js",
-        "public/js/custom.js"
+    "js/dbiz_theme.min.js": [
+        "public/js/dbiz_theme.js",
+        "public/js/dbiz_theme-custom.js"
     ],
     "js/dbiz_theme-template.min.js": [
         "public/js/template/main-sidebar.html"
