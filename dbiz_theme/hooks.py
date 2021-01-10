@@ -14,6 +14,19 @@ app_license = "MIT"
 # Includes in <head>
 # ------------------
 
+app_include_css = [
+    "/assets/bdtheme/css/bdtheme.css",
+    "/assets/bdtheme/css/skin-blue.css",
+    "/assets/bdtheme/css/custom.css",
+    "/assets/bdtheme/css/temp.css",
+]
+app_include_js = [
+    "/assets/bdtheme/js/bdtheme.js",
+    "/assets/bdtheme/js/custom.js",
+    "/assets/js/bdtheme-template.min.js",
+]
+
+
 # include js, css files in header of desk.html
 # app_include_css = "/assets/dbiz_theme/css/dbiz_theme.css"
 # app_include_js = "/assets/dbiz_theme/js/dbiz_theme.js"
@@ -39,7 +52,7 @@ app_license = "MIT"
 
 # website user home page (by Role)
 # role_home_page = {
-#	"Role": "home_page"
+# 	"Role": "home_page"
 # }
 
 # Website user home page (by function)
@@ -84,7 +97,7 @@ app_license = "MIT"
 # 		"on_update": "method",
 # 		"on_cancel": "method",
 # 		"on_trash": "method"
-#	}
+# 	}
 # }
 
 # Scheduled Tasks
@@ -126,4 +139,3 @@ app_license = "MIT"
 # override_doctype_dashboards = {
 # 	"Task": "dbiz_theme.task.get_dashboard_data"
 # }
-
